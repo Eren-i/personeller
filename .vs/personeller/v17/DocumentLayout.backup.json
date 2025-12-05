@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|c:\\users\\ereni\\onedrive\\masa\u00FCst\u00FC\\personeller\\personeller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Form1.cs",
+              "RelativeDocumentMoniker": "personeller\\Form1.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personeller\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T17:12:30.3Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
