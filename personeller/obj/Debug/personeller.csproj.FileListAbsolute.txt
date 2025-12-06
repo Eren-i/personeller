@@ -1,0 +1,12 @@
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\bin\Debug\personeller.exe.config
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\bin\Debug\personeller.exe
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\bin\Debug\personeller.pdb
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.csproj.AssemblyReference.cache
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.Form1.resources
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.KayitOl.resources
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.Properties.Resources.resources
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.csproj.GenerateResource.cache
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.csproj.CoreCompileInputs.cache
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.exe
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.pdb
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.exe.config
