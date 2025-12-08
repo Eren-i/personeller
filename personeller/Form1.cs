@@ -27,18 +27,7 @@ namespace personeller
 
         private void button2_Click(object sender, EventArgs e)
         {
-            // 1. Adım: Açılacak formdan bir nesne türetiyoruz.
-            // Eğer formunun adı 'Form2' ise burayı 'Form2 fr = new Form2();' yap.
-            KayitOl fr = new KayitOl();
-
-            // 2. Adım: Mevcut giriş ekranını gizliyoruz (İsteğe bağlı)
-            this.Hide();
-
-            // 3. Adım: Yeni formu açıyoruz (ShowDialog, arkadaki forma tıklanmasını engeller)
-            fr.ShowDialog();
-
-            // 4. Adım: Kayıt formu kapatılınca Giriş ekranı geri gelsin
-            this.Show();
+           
         }
 
         private void Form1_MouseDown(object sender, MouseEventArgs e)
@@ -60,6 +49,32 @@ namespace personeller
         private void Form1_MouseUp(object sender, MouseEventArgs e)
         {
             surukleniyorMu = false; // Sürükleme bitti
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            // 1. Adım: Açılacak formdan bir nesne türetiyoruz.
+            // Eğer formunun adı 'Form2' ise burayı 'Form2 fr = new Form2();' yap.
+            KayitOl fr = new KayitOl();
+
+            // 2. Adım: Mevcut giriş ekranını gizliyoruz (İsteğe bağlı)
+            this.Hide();
+
+            // 3. Adım: Yeni formu açıyoruz (ShowDialog, arkadaki forma tıklanmasını engeller)
+            fr.ShowDialog();
+
+            // 4. Adım: Kayıt formu kapatılınca Giriş ekranı geri gelsin
+            this.Show();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

@@ -124,7 +124,7 @@
             // 
             this.label1.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label1.ForeColor = System.Drawing.Color.Gray;
-            this.label1.Location = new System.Drawing.Point(69, 167);
+            this.label1.Location = new System.Drawing.Point(69, 171);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(241, 174);
             this.label1.TabIndex = 17;
@@ -144,6 +144,7 @@
             this.TurnBackButton.TabStop = true;
             this.TurnBackButton.Text = "Geri Dön";
             this.TurnBackButton.VisitedLinkColor = System.Drawing.Color.Green;
+            this.TurnBackButton.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.TurnBackButton_LinkClicked);
             this.TurnBackButton.MouseDown += new System.Windows.Forms.MouseEventHandler(this.TurnBackButton_MouseDown);
             this.TurnBackButton.MouseMove += new System.Windows.Forms.MouseEventHandler(this.TurnBackButton_MouseMove);
             this.TurnBackButton.MouseUp += new System.Windows.Forms.MouseEventHandler(this.TurnBackButton_MouseUp);

@@ -85,5 +85,16 @@ namespace personeller
             surukleniyorMu = true;
             ilkkonum = e.Location; // Farenin nerede olduğunu hafızaya al
         }
+
+        private void TurnBackButton_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Form1 frA = new Form1();
+
+            this.Hide();
+
+            frA.ShowDialog();
+
+            this.Show();
+        }
     }
 }

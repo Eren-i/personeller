@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CalisanEkranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalisanEkranı.Designer.cs">
+      <DependentUpon>CalisanEkranı.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,13 +64,25 @@
     <Compile Include="KayitOl.Designer.cs">
       <DependentUpon>KayitOl.cs</DependentUpon>
     </Compile>
+    <Compile Include="MenuKutusu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MenuKutusu.Designer.cs">
+      <DependentUpon>MenuKutusu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CalisanEkranı.resx">
+      <DependentUpon>CalisanEkranı.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="KayitOl.resx">
       <DependentUpon>KayitOl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuKutusu.resx">
+      <DependentUpon>MenuKutusu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
