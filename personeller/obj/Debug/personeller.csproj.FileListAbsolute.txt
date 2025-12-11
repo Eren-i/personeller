@@ -12,3 +12,5 @@ C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller
 C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.exe.config
 C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.CalisanEkranı.resources
 C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.MenuKutusu.resources
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.FrmProfil.resources
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.Frmİzin.resources

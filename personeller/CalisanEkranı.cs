@@ -21,5 +21,11 @@ namespace personeller
         {
 
         }
+
+        private void menuKutusu4_Load(object sender, EventArgs e)
+        {
+            FrmProfil fr = new FrmProfil();
+            fr.Show();
+        }
     }
 }

@@ -30,15 +30,15 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CalisanEkranı));
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
-            this.menuKutusu1 = new personeller.MenuKutusu();
             this.menuKutusu3 = new personeller.MenuKutusu();
+            this.menuKutusu1 = new personeller.MenuKutusu();
             this.menuKutusu4 = new personeller.MenuKutusu();
             this.menuKutusu5 = new personeller.MenuKutusu();
-            this.menuKutusu7 = new personeller.MenuKutusu();
+            this.menuKutusu8 = new personeller.MenuKutusu();
             this.menuKutusu2 = new personeller.MenuKutusu();
             this.menuKutusu6 = new personeller.MenuKutusu();
-            this.menuKutusu8 = new personeller.MenuKutusu();
             this.menuKutusu9 = new personeller.MenuKutusu();
+            this.menuKutusu7 = new personeller.MenuKutusu();
             this.flowLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -63,16 +63,6 @@
             this.flowLayoutPanel1.Visible = false;
             this.flowLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.flowLayoutPanel1_Paint);
             // 
-            // menuKutusu1
-            // 
-            this.menuKutusu1.BackColor = System.Drawing.Color.White;
-            this.menuKutusu1.Baslik = "Mesajlarım";
-            this.menuKutusu1.Location = new System.Drawing.Point(121, 128);
-            this.menuKutusu1.Name = "menuKutusu1";
-            this.menuKutusu1.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu1.Resim")));
-            this.menuKutusu1.Size = new System.Drawing.Size(122, 96);
-            this.menuKutusu1.TabIndex = 0;
-            // 
             // menuKutusu3
             // 
             this.menuKutusu3.BackColor = System.Drawing.Color.White;
@@ -84,6 +74,16 @@
             this.menuKutusu3.Size = new System.Drawing.Size(112, 96);
             this.menuKutusu3.TabIndex = 2;
             // 
+            // menuKutusu1
+            // 
+            this.menuKutusu1.BackColor = System.Drawing.Color.White;
+            this.menuKutusu1.Baslik = "Mesajlarım";
+            this.menuKutusu1.Location = new System.Drawing.Point(121, 128);
+            this.menuKutusu1.Name = "menuKutusu1";
+            this.menuKutusu1.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu1.Resim")));
+            this.menuKutusu1.Size = new System.Drawing.Size(122, 96);
+            this.menuKutusu1.TabIndex = 0;
+            // 
             // menuKutusu4
             // 
             this.menuKutusu4.BackColor = System.Drawing.Color.White;
@@ -93,6 +93,7 @@
             this.menuKutusu4.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu4.Resim")));
             this.menuKutusu4.Size = new System.Drawing.Size(112, 96);
             this.menuKutusu4.TabIndex = 3;
+            this.menuKutusu4.Load += new System.EventHandler(this.menuKutusu4_Load);
             // 
             // menuKutusu5
             // 
@@ -104,16 +105,15 @@
             this.menuKutusu5.Size = new System.Drawing.Size(112, 96);
             this.menuKutusu5.TabIndex = 4;
             // 
-            // menuKutusu7
+            // menuKutusu8
             // 
-            this.menuKutusu7.BackColor = System.Drawing.Color.White;
-            this.menuKutusu7.Baslik = "Çalışma Düzenleme Sistemi";
-            this.menuKutusu7.Location = new System.Drawing.Point(367, 230);
-            this.menuKutusu7.Name = "menuKutusu7";
-            this.menuKutusu7.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu7.Resim")));
-            this.menuKutusu7.Size = new System.Drawing.Size(230, 96);
-            this.menuKutusu7.TabIndex = 6;
-            this.menuKutusu7.Visible = false;
+            this.menuKutusu8.BackColor = System.Drawing.Color.White;
+            this.menuKutusu8.Baslik = "İzin İsteğim";
+            this.menuKutusu8.Location = new System.Drawing.Point(485, 128);
+            this.menuKutusu8.Name = "menuKutusu8";
+            this.menuKutusu8.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu8.Resim")));
+            this.menuKutusu8.Size = new System.Drawing.Size(112, 96);
+            this.menuKutusu8.TabIndex = 9;
             // 
             // menuKutusu2
             // 
@@ -135,16 +135,6 @@
             this.menuKutusu6.Size = new System.Drawing.Size(122, 96);
             this.menuKutusu6.TabIndex = 8;
             // 
-            // menuKutusu8
-            // 
-            this.menuKutusu8.BackColor = System.Drawing.Color.White;
-            this.menuKutusu8.Baslik = "İzin İsteğim";
-            this.menuKutusu8.Location = new System.Drawing.Point(485, 128);
-            this.menuKutusu8.Name = "menuKutusu8";
-            this.menuKutusu8.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu8.Resim")));
-            this.menuKutusu8.Size = new System.Drawing.Size(112, 96);
-            this.menuKutusu8.TabIndex = 9;
-            // 
             // menuKutusu9
             // 
             this.menuKutusu9.BackColor = System.Drawing.Color.White;
@@ -154,6 +144,17 @@
             this.menuKutusu9.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu9.Resim")));
             this.menuKutusu9.Size = new System.Drawing.Size(112, 96);
             this.menuKutusu9.TabIndex = 10;
+            // 
+            // menuKutusu7
+            // 
+            this.menuKutusu7.BackColor = System.Drawing.Color.White;
+            this.menuKutusu7.Baslik = "Çalışma Düzenleme Sistemi";
+            this.menuKutusu7.Location = new System.Drawing.Point(367, 230);
+            this.menuKutusu7.Name = "menuKutusu7";
+            this.menuKutusu7.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu7.Resim")));
+            this.menuKutusu7.Size = new System.Drawing.Size(230, 96);
+            this.menuKutusu7.TabIndex = 6;
+            this.menuKutusu7.Visible = false;
             // 
             // CalisanEkranı
             // 
