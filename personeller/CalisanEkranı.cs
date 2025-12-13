@@ -27,5 +27,23 @@ namespace personeller
             FrmProfil fr = new FrmProfil();
             fr.Show();
         }
+
+        private void menuKutusu3_Load(object sender, EventArgs e)
+        {
+            FrmDepartman fr = new FrmDepartman();
+            fr.ShowDialog();
+        }
+
+        private void menuKutusuEkibim_Click(object sender, EventArgs e)
+        {
+            FrmEkibim fr = new FrmEkibim();
+            fr.ShowDialog();
+        }
+
+        private void menuKutusu2_Load(object sender, EventArgs e)
+        {
+            FrmEkibim fr = new FrmEkibim();
+            fr.ShowDialog();
+        }
     }
 }

@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|c:\\users\\ereni\\onedrive\\masa\u00FCst\u00FC\\personeller\\personeller\\frm\u0130zin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\frm\u0130zin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|c:\\users\\ereni\\onedrive\\masa\u00FCst\u00FC\\personeller\\personeller\\calisanekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\calisanekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\calisanekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,44 +11,88 @@
       "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\calisanekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|c:\\users\\ereni\\onedrive\\masa\u00FCst\u00FC\\personeller\\personeller\\frm\u0130zin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\frm\u0130zin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\vardiyakutusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\vardiyakutusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\frmekibim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\frmekibim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\frm\u0130zin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\frm\u0130zin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\menukutusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\menukutusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\frmdepartman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\frmdepartman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|c:\\users\\ereni\\onedrive\\masa\u00FCst\u00FC\\personeller\\personeller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|c:\\users\\ereni\\onedrive\\masa\u00FCst\u00FC\\personeller\\personeller\\frmprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\frmprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|c:\\users\\ereni\\onedrive\\masa\u00FCst\u00FC\\personeller\\personeller\\frmprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\frmprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\frmprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\menukutusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\menukutusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\frmmesajlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\frmmesajlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\menukutusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\menukutusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\vardiyakutusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\vardiyakutusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\frmvardiyaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\frmvardiyaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\frmvardiyaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\frmvardiyaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\frmmesajlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\frmmesajlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\frm\u0130zin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\frm\u0130zin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\frmprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\frmprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|c:\\users\\ereni\\onedrive\\masa\u00FCst\u00FC\\personeller\\personeller\\frmekibim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\frmekibim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\frmdepartman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\frmdepartman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\menukutusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61536331-B4DC-46F2-A4E6-A95878C9B3F0}|personeller\\personeller.csproj|solutionrelative:personeller\\menukutusu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,58 +114,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Program.cs",
-              "RelativeDocumentMoniker": "personeller\\Program.cs",
-              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Program.cs",
-              "RelativeToolTip": "personeller\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "FrmEkibim.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmEkibim.cs",
+              "RelativeDocumentMoniker": "personeller\\FrmEkibim.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmEkibim.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personeller\\FrmEkibim.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T00:57:04.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Frm\u0130zin.cs",
-              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Frm\u0130zin.cs",
-              "RelativeDocumentMoniker": "personeller\\Frm\u0130zin.cs",
-              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Frm\u0130zin.cs",
-              "RelativeToolTip": "personeller\\Frm\u0130zin.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAASwGsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T00:49:52.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Frm\u0130zin.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Frm\u0130zin.cs",
-              "RelativeDocumentMoniker": "personeller\\Frm\u0130zin.cs",
-              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Frm\u0130zin.cs [Tasar\u0131m]",
-              "RelativeToolTip": "personeller\\Frm\u0130zin.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T00:37:43.844Z",
+              "WhenOpened": "2025-12-13T19:22:01.969Z",
               "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FrmProfil.cs",
-              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmProfil.cs",
-              "RelativeDocumentMoniker": "personeller\\FrmProfil.cs",
-              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmProfil.cs",
-              "RelativeToolTip": "personeller\\FrmProfil.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T00:25:58.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "FrmProfil.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmProfil.cs",
               "RelativeDocumentMoniker": "personeller\\FrmProfil.cs",
@@ -137,20 +138,209 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Frm\u0130zin.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Frm\u0130zin.cs",
+              "RelativeDocumentMoniker": "personeller\\Frm\u0130zin.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Frm\u0130zin.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personeller\\Frm\u0130zin.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T00:37:43.844Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmMesajlar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmMesajlar.cs",
+              "RelativeDocumentMoniker": "personeller\\FrmMesajlar.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmMesajlar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personeller\\FrmMesajlar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T23:27:49.77Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmVardiyaa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmVardiyaa.cs",
+              "RelativeDocumentMoniker": "personeller\\FrmVardiyaa.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmVardiyaa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personeller\\FrmVardiyaa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T21:51:22.36Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalisanEkran\u0131.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\CalisanEkran\u0131.cs",
+              "RelativeDocumentMoniker": "personeller\\CalisanEkran\u0131.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\CalisanEkran\u0131.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "personeller\\CalisanEkran\u0131.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:30:26.011Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmDepartman.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmDepartman.cs",
+              "RelativeDocumentMoniker": "personeller\\FrmDepartman.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmDepartman.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personeller\\FrmDepartman.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:27:18.313Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalisanEkran\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\CalisanEkran\u0131.cs",
+              "RelativeDocumentMoniker": "personeller\\CalisanEkran\u0131.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\CalisanEkran\u0131.cs*",
+              "RelativeToolTip": "personeller\\CalisanEkran\u0131.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T09:38:08.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDepartman.cs",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmDepartman.cs",
+              "RelativeDocumentMoniker": "personeller\\FrmDepartman.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmDepartman.cs",
+              "RelativeToolTip": "personeller\\FrmDepartman.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T00:45:53.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Program.cs",
+              "RelativeDocumentMoniker": "personeller\\Program.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Program.cs",
+              "RelativeToolTip": "personeller\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T00:57:04.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmMesajlar.cs",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmMesajlar.cs",
+              "RelativeDocumentMoniker": "personeller\\FrmMesajlar.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmMesajlar.cs",
+              "RelativeToolTip": "personeller\\FrmMesajlar.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T23:50:40.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmVardiyaa.cs",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmVardiyaa.cs",
+              "RelativeDocumentMoniker": "personeller\\FrmVardiyaa.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmVardiyaa.cs",
+              "RelativeToolTip": "personeller\\FrmVardiyaa.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T21:52:56.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "VardiyaKutusu.cs",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\VardiyaKutusu.cs",
+              "RelativeDocumentMoniker": "personeller\\VardiyaKutusu.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\VardiyaKutusu.cs",
+              "RelativeToolTip": "personeller\\VardiyaKutusu.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T21:49:09.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmEkibim.cs",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmEkibim.cs",
+              "RelativeDocumentMoniker": "personeller\\FrmEkibim.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmEkibim.cs",
+              "RelativeToolTip": "personeller\\FrmEkibim.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwEEAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T19:27:25.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VardiyaKutusu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\VardiyaKutusu.cs",
+              "RelativeDocumentMoniker": "personeller\\VardiyaKutusu.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\VardiyaKutusu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "personeller\\VardiyaKutusu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T21:38:37.257Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frm\u0130zin.cs",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Frm\u0130zin.cs",
+              "RelativeDocumentMoniker": "personeller\\Frm\u0130zin.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Frm\u0130zin.cs",
+              "RelativeToolTip": "personeller\\Frm\u0130zin.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T00:49:52.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmProfil.cs",
+              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmProfil.cs",
+              "RelativeDocumentMoniker": "personeller\\FrmProfil.cs",
+              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\FrmProfil.cs",
+              "RelativeToolTip": "personeller\\FrmProfil.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T00:25:58.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "KayitOl.cs",
               "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\KayitOl.cs",
               "RelativeDocumentMoniker": "personeller\\KayitOl.cs",
               "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\KayitOl.cs",
               "RelativeToolTip": "personeller\\KayitOl.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwBIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-06T15:34:59.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "KayitOl.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\KayitOl.cs",
               "RelativeDocumentMoniker": "personeller\\KayitOl.cs",
@@ -162,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MenuKutusu.cs",
               "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\MenuKutusu.cs",
               "RelativeDocumentMoniker": "personeller\\MenuKutusu.cs",
@@ -175,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 22,
               "Title": "MenuKutusu.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\MenuKutusu.cs",
               "RelativeDocumentMoniker": "personeller\\MenuKutusu.cs",
@@ -187,33 +377,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CalisanEkran\u0131.cs",
-              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\CalisanEkran\u0131.cs",
-              "RelativeDocumentMoniker": "personeller\\CalisanEkran\u0131.cs",
-              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\CalisanEkran\u0131.cs",
-              "RelativeToolTip": "personeller\\CalisanEkran\u0131.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAEwBsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T09:38:08.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Form1.cs",
               "RelativeDocumentMoniker": "personeller\\Form1.cs",
               "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Form1.cs",
               "RelativeToolTip": "personeller\\Form1.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwCUAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCUAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-06T13:36:27.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "Form1.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\Form1.cs",
               "RelativeDocumentMoniker": "personeller\\Form1.cs",
@@ -221,18 +398,6 @@
               "RelativeToolTip": "personeller\\Form1.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T17:12:30.3Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CalisanEkran\u0131.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\CalisanEkran\u0131.cs",
-              "RelativeDocumentMoniker": "personeller\\CalisanEkran\u0131.cs",
-              "ToolTip": "C:\\Users\\ereni\\OneDrive\\Masa\u00FCst\u00FC\\personeller\\personeller\\CalisanEkran\u0131.cs [Tasar\u0131m]",
-              "RelativeToolTip": "personeller\\CalisanEkran\u0131.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T23:30:26.011Z",
               "EditorCaption": " [Tasar\u0131m]"
             }
           ]

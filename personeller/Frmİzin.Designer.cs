@@ -35,9 +35,9 @@
             this.label3 = new System.Windows.Forms.Label();
             this.txtSure = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.txtAciklama = new System.Windows.Forms.TextBox();
             this.btnGonder = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.txtAciklama = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // label1
@@ -94,19 +94,11 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(16, 202);
+            this.label4.Location = new System.Drawing.Point(16, 268);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(139, 16);
             this.label4.TabIndex = 6;
             this.label4.Text = "İzin Nedeni / Açıklama";
-            // 
-            // txtAciklama
-            // 
-            this.txtAciklama.Location = new System.Drawing.Point(19, 235);
-            this.txtAciklama.Multiline = true;
-            this.txtAciklama.Name = "txtAciklama";
-            this.txtAciklama.Size = new System.Drawing.Size(435, 99);
-            this.txtAciklama.TabIndex = 7;
             // 
             // btnGonder
             // 
@@ -129,14 +121,22 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // txtAciklama
+            // 
+            this.txtAciklama.FormattingEnabled = true;
+            this.txtAciklama.Location = new System.Drawing.Point(12, 311);
+            this.txtAciklama.Name = "txtAciklama";
+            this.txtAciklama.Size = new System.Drawing.Size(435, 24);
+            this.txtAciklama.TabIndex = 10;
+            // 
             // Frmİzin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(695, 415);
+            this.Controls.Add(this.txtAciklama);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btnGonder);
-            this.Controls.Add(this.txtAciklama);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.txtSure);
             this.Controls.Add(this.label3);
@@ -161,8 +161,8 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox txtSure;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox txtAciklama;
         private System.Windows.Forms.Button btnGonder;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.ComboBox txtAciklama;
     }
 }

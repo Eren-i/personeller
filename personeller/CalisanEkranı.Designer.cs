@@ -66,13 +66,14 @@
             // menuKutusu3
             // 
             this.menuKutusu3.BackColor = System.Drawing.Color.White;
-            this.menuKutusu3.Baslik = "Departman";
+            this.menuKutusu3.Baslik = "Departmanım";
             this.menuKutusu3.Location = new System.Drawing.Point(3, 128);
             this.menuKutusu3.Name = "menuKutusu3";
             this.menuKutusu3.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu3.Resim")));
             this.menuKutusu3.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.menuKutusu3.Size = new System.Drawing.Size(112, 96);
             this.menuKutusu3.TabIndex = 2;
+            this.menuKutusu3.Load += new System.EventHandler(this.menuKutusu3_Load);
             // 
             // menuKutusu1
             // 
@@ -124,6 +125,7 @@
             this.menuKutusu2.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu2.Resim")));
             this.menuKutusu2.Size = new System.Drawing.Size(112, 96);
             this.menuKutusu2.TabIndex = 7;
+            this.menuKutusu2.Load += new System.EventHandler(this.menuKutusu2_Load);
             // 
             // menuKutusu6
             // 

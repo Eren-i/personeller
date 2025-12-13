@@ -58,11 +58,41 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmDepartman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDepartman.Designer.cs">
+      <DependentUpon>FrmDepartman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEkibim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEkibim.Designer.cs">
+      <DependentUpon>FrmEkibim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMesajlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMesajlar.Designer.cs">
+      <DependentUpon>FrmMesajlar.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmProfil.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmProfil.Designer.cs">
       <DependentUpon>FrmProfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVardiya.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FrmVardiya.Designer.cs">
+      <DependentUpon>FrmVardiya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVardiyaa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVardiyaa.Designer.cs">
+      <DependentUpon>FrmVardiyaa.cs</DependentUpon>
     </Compile>
     <Compile Include="Frmİzin.cs">
       <SubType>Form</SubType>
@@ -84,14 +114,32 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VardiyaKutusu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VardiyaKutusu.Designer.cs">
+      <DependentUpon>VardiyaKutusu.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="CalisanEkranı.resx">
       <DependentUpon>CalisanEkranı.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmDepartman.resx">
+      <DependentUpon>FrmDepartman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEkibim.resx">
+      <DependentUpon>FrmEkibim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMesajlar.resx">
+      <DependentUpon>FrmMesajlar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmProfil.resx">
       <DependentUpon>FrmProfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVardiyaa.resx">
+      <DependentUpon>FrmVardiyaa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Frmİzin.resx">
       <DependentUpon>Frmİzin.cs</DependentUpon>
@@ -111,6 +159,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="VardiyaKutusu.resx">
+      <DependentUpon>VardiyaKutusu.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

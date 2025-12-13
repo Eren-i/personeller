@@ -14,3 +14,8 @@ C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller
 C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.MenuKutusu.resources
 C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.FrmProfil.resources
 C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.Frmİzin.resources
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.VardiyaKutusu.resources
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.FrmVardiyaa.resources
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.FrmMesajlar.resources
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.FrmDepartman.resources
+C:\Users\ereni\OneDrive\Masaüstü\personeller\personeller\obj\Debug\personeller.FrmEkibim.resources
