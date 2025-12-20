@@ -45,8 +45,8 @@
             // flowLayoutPanel1
             // 
             this.flowLayoutPanel1.AutoScroll = true;
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu3);
             this.flowLayoutPanel1.Controls.Add(this.menuKutusu1);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu3);
             this.flowLayoutPanel1.Controls.Add(this.menuKutusu4);
             this.flowLayoutPanel1.Controls.Add(this.menuKutusu5);
             this.flowLayoutPanel1.Controls.Add(this.menuKutusu8);
@@ -67,7 +67,7 @@
             // 
             this.menuKutusu3.BackColor = System.Drawing.Color.White;
             this.menuKutusu3.Baslik = "Departmanım";
-            this.menuKutusu3.Location = new System.Drawing.Point(3, 128);
+            this.menuKutusu3.Location = new System.Drawing.Point(131, 128);
             this.menuKutusu3.Name = "menuKutusu3";
             this.menuKutusu3.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu3.Resim")));
             this.menuKutusu3.RightToLeft = System.Windows.Forms.RightToLeft.No;
@@ -79,7 +79,7 @@
             // 
             this.menuKutusu1.BackColor = System.Drawing.Color.White;
             this.menuKutusu1.Baslik = "Mesajlarım";
-            this.menuKutusu1.Location = new System.Drawing.Point(121, 128);
+            this.menuKutusu1.Location = new System.Drawing.Point(3, 128);
             this.menuKutusu1.Name = "menuKutusu1";
             this.menuKutusu1.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu1.Resim")));
             this.menuKutusu1.Size = new System.Drawing.Size(122, 96);

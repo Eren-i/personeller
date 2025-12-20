@@ -58,11 +58,23 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmAvans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAvans.Designer.cs">
+      <DependentUpon>FrmAvans.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmDepartman.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmDepartman.Designer.cs">
       <DependentUpon>FrmDepartman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDuyuru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDuyuru.Designer.cs">
+      <DependentUpon>FrmDuyuru.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmEkibim.cs">
       <SubType>Form</SubType>
@@ -126,8 +138,14 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmAvans.resx">
+      <DependentUpon>FrmAvans.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmDepartman.resx">
       <DependentUpon>FrmDepartman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDuyuru.resx">
+      <DependentUpon>FrmDuyuru.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmEkibim.resx">
       <DependentUpon>FrmEkibim.cs</DependentUpon>

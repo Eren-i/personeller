@@ -16,7 +16,7 @@ namespace personeller
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frmİzin());
+            Application.Run(new FrmVardiyaa());
         }
     }
 }
