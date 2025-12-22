@@ -62,7 +62,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "MenuKutusu";
-            this.Size = new System.Drawing.Size(194, 96);
+            this.Size = new System.Drawing.Size(173, 94);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 

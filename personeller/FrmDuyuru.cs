@@ -48,5 +48,12 @@ namespace personeller
             lblBaslik.Text = konu; // Senin resimde label1 yazan yer
                                    // lblTarih.Text = tarih; // Tarih label'ının adı neyse o
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            CalisanEkranı cal = new CalisanEkranı();
+            cal.ShowDialog();
+        }
     }
 }

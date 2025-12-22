@@ -29,159 +29,234 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CalisanEkranı));
+            this.panel1 = new System.Windows.Forms.Panel();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
-            this.menuKutusu3 = new personeller.MenuKutusu();
-            this.menuKutusu1 = new personeller.MenuKutusu();
-            this.menuKutusu4 = new personeller.MenuKutusu();
-            this.menuKutusu5 = new personeller.MenuKutusu();
-            this.menuKutusu8 = new personeller.MenuKutusu();
-            this.menuKutusu2 = new personeller.MenuKutusu();
-            this.menuKutusu6 = new personeller.MenuKutusu();
-            this.menuKutusu9 = new personeller.MenuKutusu();
-            this.menuKutusu7 = new personeller.MenuKutusu();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.menuKutusu10 = new personeller.MenuKutusu();
+            this.menuKutusu11 = new personeller.MenuKutusu();
+            this.menuKutusu17 = new personeller.MenuKutusu();
+            this.menuKutusu16 = new personeller.MenuKutusu();
+            this.menuKutusu12 = new personeller.MenuKutusu();
+            this.menuKutusu15 = new personeller.MenuKutusu();
+            this.menuKutusu13 = new personeller.MenuKutusu();
+            this.menuKutusu14 = new personeller.MenuKutusu();
+            this.menuKutusu18 = new personeller.MenuKutusu();
+            this.panel1.SuspendLayout();
             this.flowLayoutPanel1.SuspendLayout();
+            this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.White;
+            this.panel1.Controls.Add(this.panel2);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(733, 120);
+            this.panel1.TabIndex = 20;
             // 
             // flowLayoutPanel1
             // 
             this.flowLayoutPanel1.AutoScroll = true;
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu1);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu3);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu4);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu5);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu8);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu2);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu6);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu9);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu7);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu10);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu11);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu17);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu16);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu12);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu15);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu13);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu14);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu18);
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 0);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 120);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Padding = new System.Windows.Forms.Padding(0, 125, 0, 0);
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(635, 450);
-            this.flowLayoutPanel1.TabIndex = 10;
-            this.flowLayoutPanel1.Visible = false;
-            this.flowLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.flowLayoutPanel1_Paint);
+            this.flowLayoutPanel1.Padding = new System.Windows.Forms.Padding(20);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(733, 331);
+            this.flowLayoutPanel1.TabIndex = 21;
             // 
-            // menuKutusu3
+            // panel2
             // 
-            this.menuKutusu3.BackColor = System.Drawing.Color.White;
-            this.menuKutusu3.Baslik = "Departmanım";
-            this.menuKutusu3.Location = new System.Drawing.Point(131, 128);
-            this.menuKutusu3.Name = "menuKutusu3";
-            this.menuKutusu3.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu3.Resim")));
-            this.menuKutusu3.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.menuKutusu3.Size = new System.Drawing.Size(112, 96);
-            this.menuKutusu3.TabIndex = 2;
-            this.menuKutusu3.Load += new System.EventHandler(this.menuKutusu3_Load);
+            this.panel2.Controls.Add(this.label2);
+            this.panel2.Controls.Add(this.label1);
+            this.panel2.Controls.Add(this.pictureBox1);
+            this.panel2.Location = new System.Drawing.Point(0, 0);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(299, 120);
+            this.panel2.TabIndex = 0;
             // 
-            // menuKutusu1
+            // pictureBox1
             // 
-            this.menuKutusu1.BackColor = System.Drawing.Color.White;
-            this.menuKutusu1.Baslik = "Mesajlarım";
-            this.menuKutusu1.Location = new System.Drawing.Point(3, 128);
-            this.menuKutusu1.Name = "menuKutusu1";
-            this.menuKutusu1.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu1.Resim")));
-            this.menuKutusu1.Size = new System.Drawing.Size(122, 96);
-            this.menuKutusu1.TabIndex = 0;
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(23, 12);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(112, 87);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
             // 
-            // menuKutusu4
+            // label1
             // 
-            this.menuKutusu4.BackColor = System.Drawing.Color.White;
-            this.menuKutusu4.Baslik = "Kariyerim";
-            this.menuKutusu4.Location = new System.Drawing.Point(249, 128);
-            this.menuKutusu4.Name = "menuKutusu4";
-            this.menuKutusu4.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu4.Resim")));
-            this.menuKutusu4.Size = new System.Drawing.Size(112, 96);
-            this.menuKutusu4.TabIndex = 3;
-            this.menuKutusu4.Load += new System.EventHandler(this.menuKutusu4_Load);
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(148, 22);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(59, 16);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "KİŞİ İSMİ";
             // 
-            // menuKutusu5
+            // label2
             // 
-            this.menuKutusu5.BackColor = System.Drawing.Color.White;
-            this.menuKutusu5.Baslik = "Vardiyam";
-            this.menuKutusu5.Location = new System.Drawing.Point(367, 128);
-            this.menuKutusu5.Name = "menuKutusu5";
-            this.menuKutusu5.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu5.Resim")));
-            this.menuKutusu5.Size = new System.Drawing.Size(112, 96);
-            this.menuKutusu5.TabIndex = 4;
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(148, 47);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(34, 16);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "YAŞ";
             // 
-            // menuKutusu8
+            // menuKutusu10
             // 
-            this.menuKutusu8.BackColor = System.Drawing.Color.White;
-            this.menuKutusu8.Baslik = "İzin İsteğim";
-            this.menuKutusu8.Location = new System.Drawing.Point(485, 128);
-            this.menuKutusu8.Name = "menuKutusu8";
-            this.menuKutusu8.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu8.Resim")));
-            this.menuKutusu8.Size = new System.Drawing.Size(112, 96);
-            this.menuKutusu8.TabIndex = 9;
+            this.menuKutusu10.BackColor = System.Drawing.Color.White;
+            this.menuKutusu10.Baslik = "Mesajlarım";
+            this.menuKutusu10.Location = new System.Drawing.Point(23, 23);
+            this.menuKutusu10.Name = "menuKutusu10";
+            this.menuKutusu10.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu10.Resim")));
+            this.menuKutusu10.Size = new System.Drawing.Size(122, 96);
+            this.menuKutusu10.TabIndex = 21;
+            this.menuKutusu10.Load += new System.EventHandler(this.menuKutusu10_Load_1);
+            this.menuKutusu10.Click += new System.EventHandler(this.menuKutusu10_Click);
             // 
-            // menuKutusu2
+            // menuKutusu11
             // 
-            this.menuKutusu2.BackColor = System.Drawing.Color.White;
-            this.menuKutusu2.Baslik = "Ekibim";
-            this.menuKutusu2.Location = new System.Drawing.Point(3, 230);
-            this.menuKutusu2.Name = "menuKutusu2";
-            this.menuKutusu2.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu2.Resim")));
-            this.menuKutusu2.Size = new System.Drawing.Size(112, 96);
-            this.menuKutusu2.TabIndex = 7;
-            this.menuKutusu2.Load += new System.EventHandler(this.menuKutusu2_Load);
+            this.menuKutusu11.BackColor = System.Drawing.Color.White;
+            this.menuKutusu11.Baslik = "Departmanım";
+            this.menuKutusu11.Location = new System.Drawing.Point(151, 23);
+            this.menuKutusu11.Name = "menuKutusu11";
+            this.menuKutusu11.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu11.Resim")));
+            this.menuKutusu11.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.menuKutusu11.Size = new System.Drawing.Size(112, 96);
+            this.menuKutusu11.TabIndex = 30;
+            this.menuKutusu11.Load += new System.EventHandler(this.menuKutusu11_Load);
+            this.menuKutusu11.MouseClick += new System.Windows.Forms.MouseEventHandler(this.menuKutusu11_MouseClick);
             // 
-            // menuKutusu6
+            // menuKutusu17
             // 
-            this.menuKutusu6.BackColor = System.Drawing.Color.White;
-            this.menuKutusu6.Baslik = "Avans İsteğim";
-            this.menuKutusu6.Location = new System.Drawing.Point(121, 230);
-            this.menuKutusu6.Name = "menuKutusu6";
-            this.menuKutusu6.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu6.Resim")));
-            this.menuKutusu6.Size = new System.Drawing.Size(122, 96);
-            this.menuKutusu6.TabIndex = 8;
+            this.menuKutusu17.BackColor = System.Drawing.Color.White;
+            this.menuKutusu17.Baslik = "Duyurular";
+            this.menuKutusu17.Location = new System.Drawing.Point(269, 23);
+            this.menuKutusu17.Name = "menuKutusu17";
+            this.menuKutusu17.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu17.Resim")));
+            this.menuKutusu17.Size = new System.Drawing.Size(112, 96);
+            this.menuKutusu17.TabIndex = 37;
+            this.menuKutusu17.Load += new System.EventHandler(this.menuKutusu17_Load);
+            this.menuKutusu17.Click += new System.EventHandler(this.menuKutusu17_Click);
             // 
-            // menuKutusu9
+            // menuKutusu16
             // 
-            this.menuKutusu9.BackColor = System.Drawing.Color.White;
-            this.menuKutusu9.Baslik = "Duyurular";
-            this.menuKutusu9.Location = new System.Drawing.Point(249, 230);
-            this.menuKutusu9.Name = "menuKutusu9";
-            this.menuKutusu9.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu9.Resim")));
-            this.menuKutusu9.Size = new System.Drawing.Size(112, 96);
-            this.menuKutusu9.TabIndex = 10;
+            this.menuKutusu16.BackColor = System.Drawing.Color.White;
+            this.menuKutusu16.Baslik = "Avans İsteğim";
+            this.menuKutusu16.Location = new System.Drawing.Point(387, 23);
+            this.menuKutusu16.Name = "menuKutusu16";
+            this.menuKutusu16.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu16.Resim")));
+            this.menuKutusu16.Size = new System.Drawing.Size(122, 96);
+            this.menuKutusu16.TabIndex = 35;
+            this.menuKutusu16.Click += new System.EventHandler(this.menuKutusu16_Click);
             // 
-            // menuKutusu7
+            // menuKutusu12
             // 
-            this.menuKutusu7.BackColor = System.Drawing.Color.White;
-            this.menuKutusu7.Baslik = "Çalışma Düzenleme Sistemi";
-            this.menuKutusu7.Location = new System.Drawing.Point(367, 230);
-            this.menuKutusu7.Name = "menuKutusu7";
-            this.menuKutusu7.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu7.Resim")));
-            this.menuKutusu7.Size = new System.Drawing.Size(230, 96);
-            this.menuKutusu7.TabIndex = 6;
-            this.menuKutusu7.Visible = false;
+            this.menuKutusu12.BackColor = System.Drawing.Color.White;
+            this.menuKutusu12.Baslik = "Kariyerim";
+            this.menuKutusu12.Location = new System.Drawing.Point(515, 23);
+            this.menuKutusu12.Name = "menuKutusu12";
+            this.menuKutusu12.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu12.Resim")));
+            this.menuKutusu12.Size = new System.Drawing.Size(112, 96);
+            this.menuKutusu12.TabIndex = 31;
+            this.menuKutusu12.Load += new System.EventHandler(this.menuKutusu12_Load);
+            this.menuKutusu12.Click += new System.EventHandler(this.menuKutusu12_Click);
+            // 
+            // menuKutusu15
+            // 
+            this.menuKutusu15.BackColor = System.Drawing.Color.White;
+            this.menuKutusu15.Baslik = "Ekibim";
+            this.menuKutusu15.Location = new System.Drawing.Point(23, 125);
+            this.menuKutusu15.Name = "menuKutusu15";
+            this.menuKutusu15.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu15.Resim")));
+            this.menuKutusu15.Size = new System.Drawing.Size(122, 96);
+            this.menuKutusu15.TabIndex = 34;
+            this.menuKutusu15.Click += new System.EventHandler(this.menuKutusu15_Click);
+            // 
+            // menuKutusu13
+            // 
+            this.menuKutusu13.BackColor = System.Drawing.Color.White;
+            this.menuKutusu13.Baslik = "Vardiyam";
+            this.menuKutusu13.Location = new System.Drawing.Point(151, 125);
+            this.menuKutusu13.Name = "menuKutusu13";
+            this.menuKutusu13.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu13.Resim")));
+            this.menuKutusu13.Size = new System.Drawing.Size(112, 96);
+            this.menuKutusu13.TabIndex = 32;
+            this.menuKutusu13.Click += new System.EventHandler(this.menuKutusu13_Click);
+            // 
+            // menuKutusu14
+            // 
+            this.menuKutusu14.BackColor = System.Drawing.Color.White;
+            this.menuKutusu14.Baslik = "İzin İsteğim";
+            this.menuKutusu14.Location = new System.Drawing.Point(269, 125);
+            this.menuKutusu14.Name = "menuKutusu14";
+            this.menuKutusu14.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu14.Resim")));
+            this.menuKutusu14.Size = new System.Drawing.Size(112, 96);
+            this.menuKutusu14.TabIndex = 36;
+            this.menuKutusu14.Click += new System.EventHandler(this.menuKutusu14_Click);
+            // 
+            // menuKutusu18
+            // 
+            this.menuKutusu18.BackColor = System.Drawing.Color.White;
+            this.menuKutusu18.Baslik = "Çalışma Düzenleme Sistemi";
+            this.menuKutusu18.Location = new System.Drawing.Point(387, 125);
+            this.menuKutusu18.Name = "menuKutusu18";
+            this.menuKutusu18.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu18.Resim")));
+            this.menuKutusu18.Size = new System.Drawing.Size(240, 96);
+            this.menuKutusu18.TabIndex = 33;
+            this.menuKutusu18.Visible = false;
             // 
             // CalisanEkranı
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(635, 450);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(242)))), ((int)(((byte)(245)))));
+            this.ClientSize = new System.Drawing.Size(733, 451);
             this.Controls.Add(this.flowLayoutPanel1);
+            this.Controls.Add(this.panel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "CalisanEkranı";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "CalisanEkranı";
+            this.panel1.ResumeLayout(false);
             this.flowLayoutPanel1.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
+        private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
-        private MenuKutusu menuKutusu1;
-        private MenuKutusu menuKutusu3;
-        private MenuKutusu menuKutusu4;
-        private MenuKutusu menuKutusu5;
-        private MenuKutusu menuKutusu7;
-        private MenuKutusu menuKutusu2;
-        private MenuKutusu menuKutusu6;
-        private MenuKutusu menuKutusu8;
-        private MenuKutusu menuKutusu9;
+        private MenuKutusu menuKutusu10;
+        private MenuKutusu menuKutusu11;
+        private MenuKutusu menuKutusu17;
+        private MenuKutusu menuKutusu16;
+        private MenuKutusu menuKutusu12;
+        private MenuKutusu menuKutusu15;
+        private MenuKutusu menuKutusu13;
+        private MenuKutusu menuKutusu14;
+        private MenuKutusu menuKutusu18;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

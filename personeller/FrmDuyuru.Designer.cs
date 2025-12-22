@@ -33,9 +33,9 @@
             this.Konu = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Tarih = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.lblBaslik = new System.Windows.Forms.Label();
-            this.lblTarih = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.lblTarih = new System.Windows.Forms.Label();
+            this.lblBaslik = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -110,15 +110,16 @@
             this.panel1.Size = new System.Drawing.Size(530, 100);
             this.panel1.TabIndex = 0;
             // 
-            // lblBaslik
+            // button1
             // 
-            this.lblBaslik.AutoSize = true;
-            this.lblBaslik.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblBaslik.Location = new System.Drawing.Point(30, 40);
-            this.lblBaslik.Name = "lblBaslik";
-            this.lblBaslik.Size = new System.Drawing.Size(181, 29);
-            this.lblBaslik.TabIndex = 0;
-            this.lblBaslik.Text = "Duyuru Başlığı";
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button1.Location = new System.Drawing.Point(375, 14);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(143, 71);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "GERİ DÖN";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // lblTarih
             // 
@@ -131,15 +132,15 @@
             this.lblTarih.TabIndex = 1;
             this.lblTarih.Text = "14.12.2025";
             // 
-            // button1
+            // lblBaslik
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button1.Location = new System.Drawing.Point(375, 14);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(143, 71);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "GERİ DÖN";
-            this.button1.UseVisualStyleBackColor = true;
+            this.lblBaslik.AutoSize = true;
+            this.lblBaslik.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblBaslik.Location = new System.Drawing.Point(30, 40);
+            this.lblBaslik.Name = "lblBaslik";
+            this.lblBaslik.Size = new System.Drawing.Size(181, 29);
+            this.lblBaslik.TabIndex = 0;
+            this.lblBaslik.Text = "Duyuru Başlığı";
             // 
             // FrmDuyuru
             // 

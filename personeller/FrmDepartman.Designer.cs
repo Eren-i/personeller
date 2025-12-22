@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.lblAd = new System.Windows.Forms.Label();
             this.lblYonetici = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -52,6 +52,17 @@
             this.panel1.Size = new System.Drawing.Size(800, 100);
             this.panel1.TabIndex = 0;
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label1.ForeColor = System.Drawing.SystemColors.InactiveBorder;
+            this.label1.Location = new System.Drawing.Point(280, 37);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(238, 29);
+            this.label1.TabIndex = 3;
+            this.label1.Text = "Departman Bilgileri";
+            // 
             // button1
             // 
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -63,17 +74,7 @@
             this.button1.TabIndex = 2;
             this.button1.Text = "GERİ DÖN";
             this.button1.UseVisualStyleBackColor = true;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.ForeColor = System.Drawing.SystemColors.InactiveBorder;
-            this.label1.Location = new System.Drawing.Point(280, 37);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(238, 29);
-            this.label1.TabIndex = 3;
-            this.label1.Text = "Departman Bilgileri";
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // lblAd
             // 

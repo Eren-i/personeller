@@ -61,6 +61,8 @@ namespace personeller
         private void button1_Click(object sender, EventArgs e)
         {
             this.Close(); // Formu kapat, ana menüye dön.
+            CalisanEkranı cal = new CalisanEkranı();
+            cal.ShowDialog();
         }
     }
 }
