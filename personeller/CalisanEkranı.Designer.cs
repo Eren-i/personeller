@@ -30,11 +30,11 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CalisanEkranı));
             this.panel1 = new System.Windows.Forms.Panel();
-            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.menuKutusu10 = new personeller.MenuKutusu();
             this.menuKutusu11 = new personeller.MenuKutusu();
             this.menuKutusu17 = new personeller.MenuKutusu();
@@ -43,11 +43,10 @@
             this.menuKutusu15 = new personeller.MenuKutusu();
             this.menuKutusu13 = new personeller.MenuKutusu();
             this.menuKutusu14 = new personeller.MenuKutusu();
-            this.menuKutusu18 = new personeller.MenuKutusu();
             this.panel1.SuspendLayout();
-            this.flowLayoutPanel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.flowLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -60,25 +59,6 @@
             this.panel1.Size = new System.Drawing.Size(733, 120);
             this.panel1.TabIndex = 20;
             // 
-            // flowLayoutPanel1
-            // 
-            this.flowLayoutPanel1.AutoScroll = true;
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu10);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu11);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu17);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu16);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu12);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu15);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu13);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu14);
-            this.flowLayoutPanel1.Controls.Add(this.menuKutusu18);
-            this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 120);
-            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Padding = new System.Windows.Forms.Padding(20);
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(733, 331);
-            this.flowLayoutPanel1.TabIndex = 21;
-            // 
             // panel2
             // 
             this.panel2.Controls.Add(this.label2);
@@ -88,6 +68,24 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(299, 120);
             this.panel2.TabIndex = 0;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(148, 47);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(34, 16);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "YAŞ";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(148, 22);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(59, 16);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "KİŞİ İSMİ";
             // 
             // pictureBox1
             // 
@@ -99,23 +97,23 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
-            // label1
+            // flowLayoutPanel1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(148, 22);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(59, 16);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "KİŞİ İSMİ";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(148, 47);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(34, 16);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "YAŞ";
+            this.flowLayoutPanel1.AutoScroll = true;
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu10);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu11);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu17);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu12);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu16);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu15);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu13);
+            this.flowLayoutPanel1.Controls.Add(this.menuKutusu14);
+            this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 120);
+            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
+            this.flowLayoutPanel1.Padding = new System.Windows.Forms.Padding(20);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(733, 331);
+            this.flowLayoutPanel1.TabIndex = 21;
             // 
             // menuKutusu10
             // 
@@ -158,7 +156,7 @@
             // 
             this.menuKutusu16.BackColor = System.Drawing.Color.White;
             this.menuKutusu16.Baslik = "Avans İsteğim";
-            this.menuKutusu16.Location = new System.Drawing.Point(387, 23);
+            this.menuKutusu16.Location = new System.Drawing.Point(505, 23);
             this.menuKutusu16.Name = "menuKutusu16";
             this.menuKutusu16.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu16.Resim")));
             this.menuKutusu16.Size = new System.Drawing.Size(122, 96);
@@ -169,7 +167,7 @@
             // 
             this.menuKutusu12.BackColor = System.Drawing.Color.White;
             this.menuKutusu12.Baslik = "Kariyerim";
-            this.menuKutusu12.Location = new System.Drawing.Point(515, 23);
+            this.menuKutusu12.Location = new System.Drawing.Point(387, 23);
             this.menuKutusu12.Name = "menuKutusu12";
             this.menuKutusu12.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu12.Resim")));
             this.menuKutusu12.Size = new System.Drawing.Size(112, 96);
@@ -210,17 +208,6 @@
             this.menuKutusu14.TabIndex = 36;
             this.menuKutusu14.Click += new System.EventHandler(this.menuKutusu14_Click);
             // 
-            // menuKutusu18
-            // 
-            this.menuKutusu18.BackColor = System.Drawing.Color.White;
-            this.menuKutusu18.Baslik = "Çalışma Düzenleme Sistemi";
-            this.menuKutusu18.Location = new System.Drawing.Point(387, 125);
-            this.menuKutusu18.Name = "menuKutusu18";
-            this.menuKutusu18.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu18.Resim")));
-            this.menuKutusu18.Size = new System.Drawing.Size(240, 96);
-            this.menuKutusu18.TabIndex = 33;
-            this.menuKutusu18.Visible = false;
-            // 
             // CalisanEkranı
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -234,10 +221,10 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "CalisanEkranı";
             this.panel1.ResumeLayout(false);
-            this.flowLayoutPanel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.flowLayoutPanel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -253,7 +240,6 @@
         private MenuKutusu menuKutusu15;
         private MenuKutusu menuKutusu13;
         private MenuKutusu menuKutusu14;
-        private MenuKutusu menuKutusu18;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;

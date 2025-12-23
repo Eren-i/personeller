@@ -33,37 +33,12 @@ namespace personeller
 
         private void dateBitis_ValueChanged(object sender, EventArgs e)
         {
-            // EĞER FORM DAHA HAZIR DEĞİLSE HİÇBİR ŞEY YAPMA, GERİ DÖN!
-            if (formHazirMi == false) return;
 
-            // Tarihlerin sırasını kontrol et
-            if (dateBitis.Value < dateBaslangic.Value)
-            {
-                MessageBox.Show("Bitiş tarihi, başlangıç tarihinden önce olamaz!", "Hata", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                dateBitis.Value = dateBaslangic.Value; // Tarihi geri düzelt
-                return;
-            }
-
-            // Hesaplama Fonksiyonunu Çağır
-            GunHesapla();
         }
 
         private void dateBaslangic_ValueChanged(object sender, EventArgs e)
         {
-            // EĞER FORM DAHA HAZIR DEĞİLSE HİÇBİR ŞEY YAPMA, GERİ DÖN!
-            // (Bu kontrolü buraya da ekledik, hata buradaydı)
-            if (formHazirMi == false) return;
 
-            // Tarihlerin sırasını kontrol et
-            if (dateBitis.Value < dateBaslangic.Value)
-            {
-                MessageBox.Show("Bitiş tarihi, başlangıç tarihinden önce olamaz!", "Hata", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                dateBitis.Value = dateBaslangic.Value;
-                return;
-            }
-
-            // Hesaplama Fonksiyonunu Çağır
-            GunHesapla();
         }
 
         // Hesaplama işini tek bir ortak metoda aldım, daha temiz oldu
@@ -112,6 +87,28 @@ namespace personeller
 
 
             /// BU KOD KESİNLİKLE DEĞİŞMELİDİR KESİNDİR !!!!!!!!!!!!!!!!!!!!!!!
+        }
+
+        private void dateBitis_ValueChanged_1(object sender, EventArgs e)
+        {
+            // dateBaslangic ve dateBitis senin araçlarının adı olsun
+            DateTime baslangic = dateBaslangic.Value;
+            DateTime bitis = dateBitis.Value;
+
+            TimeSpan fark = bitis - baslangic;
+            int gunSayisi = (int)fark.TotalDays;
+
+            if (gunSayisi < 0)
+            {
+                txtSure.Text = "Hatalı Tarih!";
+                txtSure.ForeColor = Color.Red;
+            }
+            else
+            {
+                // +1 ekliyoruz çünkü başladığı gün de sayılır
+                txtSure.Text = (gunSayisi + 1).ToString() + " GÜN";
+                txtSure.ForeColor = Color.DarkBlue;
+            }
         }
     }
 }
