@@ -118,6 +118,30 @@
     <Compile Include="KayitOl.Designer.cs">
       <DependentUpon>KayitOl.cs</DependentUpon>
     </Compile>
+    <Compile Include="mdravans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdravans.Designer.cs">
+      <DependentUpon>mdravans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mdrekiplercs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdrekiplercs.Designer.cs">
+      <DependentUpon>mdrekiplercs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mdrekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdrekran.Designer.cs">
+      <DependentUpon>mdrekran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mdrvardiya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdrvardiya.Designer.cs">
+      <DependentUpon>mdrvardiya.cs</DependentUpon>
+    </Compile>
     <Compile Include="MenuKutusu.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -164,6 +188,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="KayitOl.resx">
       <DependentUpon>KayitOl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mdravans.resx">
+      <DependentUpon>mdravans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mdrekran.resx">
+      <DependentUpon>mdrekran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mdrvardiya.resx">
+      <DependentUpon>mdrvardiya.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MenuKutusu.resx">
       <DependentUpon>MenuKutusu.cs</DependentUpon>

@@ -169,7 +169,7 @@
             this.txtSure.AutoSize = true;
             this.txtSure.BackColor = System.Drawing.Color.White;
             this.txtSure.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.txtSure.Location = new System.Drawing.Point(201, 135);
+            this.txtSure.Location = new System.Drawing.Point(255, 119);
             this.txtSure.Name = "txtSure";
             this.txtSure.Size = new System.Drawing.Size(104, 32);
             this.txtSure.TabIndex = 11;

@@ -38,8 +38,8 @@
             this.menuKutusu10 = new personeller.MenuKutusu();
             this.menuKutusu11 = new personeller.MenuKutusu();
             this.menuKutusu17 = new personeller.MenuKutusu();
-            this.menuKutusu16 = new personeller.MenuKutusu();
             this.menuKutusu12 = new personeller.MenuKutusu();
+            this.menuKutusu16 = new personeller.MenuKutusu();
             this.menuKutusu15 = new personeller.MenuKutusu();
             this.menuKutusu13 = new personeller.MenuKutusu();
             this.menuKutusu14 = new personeller.MenuKutusu();
@@ -152,17 +152,6 @@
             this.menuKutusu17.Load += new System.EventHandler(this.menuKutusu17_Load);
             this.menuKutusu17.Click += new System.EventHandler(this.menuKutusu17_Click);
             // 
-            // menuKutusu16
-            // 
-            this.menuKutusu16.BackColor = System.Drawing.Color.White;
-            this.menuKutusu16.Baslik = "Avans İsteğim";
-            this.menuKutusu16.Location = new System.Drawing.Point(505, 23);
-            this.menuKutusu16.Name = "menuKutusu16";
-            this.menuKutusu16.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu16.Resim")));
-            this.menuKutusu16.Size = new System.Drawing.Size(122, 96);
-            this.menuKutusu16.TabIndex = 35;
-            this.menuKutusu16.Click += new System.EventHandler(this.menuKutusu16_Click);
-            // 
             // menuKutusu12
             // 
             this.menuKutusu12.BackColor = System.Drawing.Color.White;
@@ -174,6 +163,17 @@
             this.menuKutusu12.TabIndex = 31;
             this.menuKutusu12.Load += new System.EventHandler(this.menuKutusu12_Load);
             this.menuKutusu12.Click += new System.EventHandler(this.menuKutusu12_Click);
+            // 
+            // menuKutusu16
+            // 
+            this.menuKutusu16.BackColor = System.Drawing.Color.White;
+            this.menuKutusu16.Baslik = "Avans İsteğim";
+            this.menuKutusu16.Location = new System.Drawing.Point(505, 23);
+            this.menuKutusu16.Name = "menuKutusu16";
+            this.menuKutusu16.Resim = ((System.Drawing.Image)(resources.GetObject("menuKutusu16.Resim")));
+            this.menuKutusu16.Size = new System.Drawing.Size(122, 96);
+            this.menuKutusu16.TabIndex = 35;
+            this.menuKutusu16.Click += new System.EventHandler(this.menuKutusu16_Click);
             // 
             // menuKutusu15
             // 
